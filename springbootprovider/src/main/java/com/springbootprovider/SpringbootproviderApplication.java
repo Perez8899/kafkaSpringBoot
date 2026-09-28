@@ -1,13 +1,13 @@
-package com.beginingKafka;
+package com.springbootprovider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SprinBootkafkaApplication {
+public class SpringbootproviderApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SprinBootkafkaApplication.class, args);
+		SpringApplication.run(SpringbootproviderApplication.class, args);
 	}
 
 }
